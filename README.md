@@ -14,3 +14,4 @@ I am a Teaching Assistant for a introduction to C++ class, and lots of confusion
 |[Arrays](./FunWithPointers/Arrays)|Introduces the concepts of pointer arithmetic and how to use pointers to create single and multidimentional arrays|
 |[Classes](./FunWithPointers/Classes)|Introduces the "->" symbol, and how pointers can be used with classes|
 |[Functions](./FunWithPointers/Functions)|Explains what a function pointer is, how to create one, how they are used, and why they are used|
+|[Smart Pointers](./FunWithPointers/SmartPointers)|Introduces Smart Pointers, which are classes that encapsulate pointers to assist in memory management. Smart Pointers are useful for helping to clean up memory when they go out of scope|
